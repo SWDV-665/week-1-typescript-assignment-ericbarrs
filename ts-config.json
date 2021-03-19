@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "target": "es7",
+      "module": "commonjs",
+      "sourceMap": true
+    }
+  }
